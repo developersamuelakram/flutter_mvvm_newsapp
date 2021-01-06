@@ -1,4 +1,4 @@
-# flutter_mvvm_newsapp
+# Flutter News App - MVVM
 
 A new Flutter application.
 
