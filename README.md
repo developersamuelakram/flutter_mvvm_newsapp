@@ -2,7 +2,7 @@
 
 Fetching JSON response from www.newsapi.org
 
-# Youtube tutorial: https://www.youtube.com/playlist?list=PLKETiCsEsH0qBwS-JceIzJgzmKybjLA7d
+## Youtube tutorial: https://www.youtube.com/playlist?list=PLKETiCsEsH0qBwS-JceIzJgzmKybjLA7d
 
 I have used # MVVM architecture in a flutter app. 
 You can get the news of specific country too. 
